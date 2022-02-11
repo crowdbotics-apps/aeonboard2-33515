@@ -27,7 +27,7 @@ const Splash = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#FFF"
+    backgroundColor: "2c107e"
   },
   image: { width: "100%", height: '100%' }
 })
